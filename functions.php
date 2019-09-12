@@ -1,4 +1,4 @@
-/*AddLogoToLogin*/
+/*Add-Logo-To-Login*/
 function my_login_logo_url() {
     return home_url();
 }
